@@ -62,7 +62,7 @@ h1 {
     box-sizing: border-box;
 }
 
-.cell:nth-child(3n) {
+.cell:nth-child(3), .cell:nth-child(6) {
     border-right: 2px solid #333;
 }
 
